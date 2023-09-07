@@ -1,0 +1,39 @@
+rcm- rec=vision control system
+scm-source code management
+
+local version control system
+centralise 
+distribted
+
+Tools fro version control
+Git
+SVN
+Clearcase
+================================================================
+Integration between Jenkins and GitHub takes on two separate forms:
+
+Jenkins to pull code from GitHub through the Jenkins Git plugin
+The ability of GitHub to trigger Jenkins build jobs  through the Jenkins GitHub plugin
+=========================================================================================
+How to integrate Jenkins with GitHub:
+-----------------------------------
+1. Install the Jenkins Git plugin
+2. Install the Jenkins GitHub integration plugin
+3. Use GitHub URLs to pull source code into Jenkins
+4. Use GitHub webhooks to trigger Jenkins build jobs
+5. Configure the Jenkins with GitHub integration plugin to enable additional reporting features
+
+=================================================================
+steps to Build the source code from Github:
+1. Go to Github Repository and copy the code
+2. Go to Jenkins and Go to Source code mangement and select Git  and Paste the url and select Master.
+3. Then source code will be pulled from GitHub to Jenkins 
+then able to perform various compilations, testing and build operations on the files. 
+
+==========================================================================================
+
+Jenkins used to CI/CD tools market, 
+and GitHub continues to bring new customers to its cloud based, 
+distributed version control offering. 
+Jenkins with GitHub integration has been tightly integrated
+into both of these popular DevOps tools.
