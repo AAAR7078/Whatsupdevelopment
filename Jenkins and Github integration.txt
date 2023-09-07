@@ -5,7 +5,7 @@ local version control system
 centralise 
 distribted
 
-Tools fro version control
+Tools fro version controls 
 Git
 SVN
 Clearcase
